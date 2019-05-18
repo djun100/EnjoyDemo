@@ -1,0 +1,6 @@
+#define fun_layout()
+head
+局部可变，放到子模板定义
+#@main()
+foot
+#end

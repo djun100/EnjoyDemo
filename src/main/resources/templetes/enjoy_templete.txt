@@ -1,0 +1,6 @@
+#@fun_layout()   ###引用在别处定义的函数模板
+#define main()  ###实现main()函数模板
+head
+#include("_tl_item.txt")  ###导入另一个模板文件中的全部内容
+foot
+#end
